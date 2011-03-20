@@ -1,0 +1,1 @@
+javascript:(function(){var scriptnode=document.createElement('script');scriptnode.src='http://masawada.cosmio.net/demo/tweetslide/main.js?' + (new Date().getTime());scriptnode.setAttribute('type','text/javascript');document.body.appendChild(scriptnode)})();
